@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(215, 134, 84);
+    color: aliceblue; /*text color*/   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{font-family: 'Courier New', Courier, monospace;
+text-align: center
+}
+h5{
+    text-align: center;
+    font-style: italic;
+}
+a{
+    color: aqua;
+}
+a:visited{
+    color: rgb(117, 242, 117);
+}
+img{
+    border: 2px solid fuchsia;
+    padding: 3px;
+    margin: 5px;
+    /*centers stuff*/
+    /* display: block;
+    margin: auto; */
+}
+.imgcenter{
+    display: block;
+    margin: auto;
+}
+.rizz{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(13, 33, 213);
+    background-color: bisque;
+    border: dashed green 5px;
+    font-size:36pt;
+    font-style:italic;
+    text-align:center;   
+}
+iframe{ border: 2px solid beige;
+}
+
